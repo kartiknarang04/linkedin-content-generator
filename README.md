@@ -40,6 +40,7 @@ venv\Scripts\activate   # On Windows
 ```
 
 ### 3. Install dependencies
+ensure chromedriver is set up in your pc
 ```bash
 pip install -r requirements.txt
 ```
